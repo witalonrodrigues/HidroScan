@@ -69,3 +69,6 @@ Permite simular o impacto de um aumento percentual das chuvas (ex: +30%) nos ind
 
 ### 0. Sair
 Encerra o programa.
+
+## Autor
+RM559023 - WITALON ANTONIO RODRIGUES
