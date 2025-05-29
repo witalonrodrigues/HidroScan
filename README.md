@@ -70,5 +70,13 @@ Permite simular o impacto de um aumento percentual das chuvas (ex: +30%) nos ind
 ### 0. Sair
 Encerra o programa.
 
+### Instruções
+
+O usuário deverá digitar 1, 2, 3, etc para selecionar a ação desejada.
+
+Cada número corresponde a uma funcionalidade específica. O sistema processará a seleção e, dependendo da escolha, executará a ação correspondente.
+
+Caso o número não corresponda a uma opção válida, o sistema solicitará uma nova entrada até que uma opção válida seja escolhida.
+
 ## Autor
 RM559023 - WITALON ANTONIO RODRIGUES
